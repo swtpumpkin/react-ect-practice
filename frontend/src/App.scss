@@ -1,9 +1,12 @@
+$bg-color: red;
+
 .App {
   text-align: center;
+  color: $bg-color;
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
+  animation: App-logo-spin infinite 5s linear;
   height: 80px;
 }
 
