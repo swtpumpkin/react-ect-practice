@@ -1,1 +1,1 @@
-# react-instagram-practice
+# react-ect-practice
